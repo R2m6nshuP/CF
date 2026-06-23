@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 
 ---
 
@@ -21,6 +22,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
 
 ### implementation
@@ -28,6 +30,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ---
 
