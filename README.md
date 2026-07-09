@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (2)
-- [implementation](#implementation) (1)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (3)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -25,17 +27,25 @@
 |---|---------|------------|----------|
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
 
 ### math
@@ -43,6 +53,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 
 ---
 
