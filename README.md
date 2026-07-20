@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -50,6 +50,7 @@
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
 | 999A | [Mishka and Contest](https://codeforces.com/contest/999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/999/A%20-%20Mishka%20and%20Contest/solution.cpp) |
 | 999B | [Reversing Encryption](https://codeforces.com/contest/999/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/999/B%20-%20Reversing%20Encryption/solution.cpp) |
+| 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
 
 ### math
 
