@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 6 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
-- [implementation](#implementation) (2)
+- [brute force](#brute-force) (4)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -40,6 +40,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
+| 999A | [Mishka and Contest](https://codeforces.com/contest/999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/999/A%20-%20Mishka%20and%20Contest/solution.cpp) |
 
 ### implementation
 
@@ -47,6 +48,7 @@
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
+| 999A | [Mishka and Contest](https://codeforces.com/contest/999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/999/A%20-%20Mishka%20and%20Contest/solution.cpp) |
 
 ### math
 
