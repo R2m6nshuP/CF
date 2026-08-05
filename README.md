@@ -6,21 +6,42 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [implementation](#implementation) (1)
+- [math](#math) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1003B | [Binary String Constructing](https://codeforces.com/contest/1003/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/B%20-%20Binary%20String%20Constructing/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 
 ---
 
