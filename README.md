@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 4 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
 
 ---
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
+| 1005A | [Tanya and Stairways](https://codeforces.com/contest/1005/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1005/A%20-%20Tanya%20and%20Stairways/solution.cpp) |
 
 ### math
 
