@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 7 |
 
 ---
 
@@ -15,6 +15,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
 - [strings](#strings) (1)
@@ -40,6 +41,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1003B | [Binary String Constructing](https://codeforces.com/contest/1003/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/B%20-%20Binary%20String%20Constructing/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1003D | [Coins and Queries](https://codeforces.com/contest/1003/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/D%20-%20Coins%20and%20Queries/solution.cpp) |
 
 ### implementation
 
