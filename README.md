@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 10 |
+| 21 | 10 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [greedy](#greedy) (4)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (10)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
@@ -54,6 +54,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1003B | [Binary String Constructing](https://codeforces.com/contest/1003/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/B%20-%20Binary%20String%20Constructing/solution.cpp) |
+| 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
 ### greedy
@@ -62,6 +63,7 @@
 |---|---------|------------|----------|
 | 1003D | [Coins and Queries](https://codeforces.com/contest/1003/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/D%20-%20Coins%20and%20Queries/solution.cpp) |
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
+| 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
