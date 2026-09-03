@@ -6,18 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 7 |
+| 18 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (2)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (9)
-- [math](#math) (3)
+- [math](#math) (4)
 - [strings](#strings) (2)
 
 ---
@@ -30,6 +31,12 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
 ### brute force
 
@@ -44,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1003B | [Binary String Constructing](https://codeforces.com/contest/1003/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/B%20-%20Binary%20String%20Constructing/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
 ### greedy
 
@@ -51,6 +59,7 @@
 |---|---------|------------|----------|
 | 1003D | [Coins and Queries](https://codeforces.com/contest/1003/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/D%20-%20Coins%20and%20Queries/solution.cpp) |
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
 ### implementation
 
@@ -73,6 +82,7 @@
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1077A | [Frog Jumping](https://codeforces.com/contest/1077/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1077/A%20-%20Frog%20Jumping/solution.cpp) |
 | 1102A | [Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1102/A%20-%20Integer%20Sequence%20Dividing/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
 ### strings
 
