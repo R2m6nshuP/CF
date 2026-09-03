@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 9 |
+| 20 | 10 |
 
 ---
 
@@ -14,13 +14,14 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (10)
-- [math](#math) (5)
+- [math](#math) (6)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -46,6 +47,7 @@
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 
 ### constructive algorithms
 
@@ -86,7 +88,14 @@
 | 1077A | [Frog Jumping](https://codeforces.com/contest/1077/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1077/A%20-%20Frog%20Jumping/solution.cpp) |
 | 1102A | [Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1102/A%20-%20Integer%20Sequence%20Dividing/solution.cpp) |
 | 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 
 ### sortings
 
@@ -100,6 +109,7 @@
 |---|---------|------------|----------|
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
 | 1029A | [Many Equal Substrings](https://codeforces.com/contest/1029/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1029/A%20-%20Many%20Equal%20Substrings/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 
 ---
 
