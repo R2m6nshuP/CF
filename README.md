@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 8 |
+| 19 | 9 |
 
 ---
 
@@ -16,9 +16,10 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (9)
-- [math](#math) (4)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (10)
+- [math](#math) (5)
+- [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
 ---
@@ -59,6 +60,7 @@
 |---|---------|------------|----------|
 | 1003D | [Coins and Queries](https://codeforces.com/contest/1003/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/D%20-%20Coins%20and%20Queries/solution.cpp) |
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
+| 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
 ### implementation
@@ -74,6 +76,7 @@
 | 1092A | [Uniform String](https://codeforces.com/contest/1092/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1092/A%20-%20Uniform%20String/solution.cpp) |
 | 1095A | [Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1095/A%20-%20Repeating%20Cipher/solution.cpp) |
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
+| 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
 
 ### math
 
@@ -82,7 +85,14 @@
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1077A | [Frog Jumping](https://codeforces.com/contest/1077/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1077/A%20-%20Frog%20Jumping/solution.cpp) |
 | 1102A | [Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1102/A%20-%20Integer%20Sequence%20Dividing/solution.cpp) |
+| 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
 
 ### strings
 
