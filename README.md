@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 10 |
+| 23 | 11 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [greedy](#greedy) (5)
+- [data structures](#data-structures) (1)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (10)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
@@ -57,6 +58,12 @@
 | 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -66,6 +73,7 @@
 | 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 1473A | [Replacing Elements](https://codeforces.com/contest/1473/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1473/A%20-%20Replacing%20Elements/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 
 ### implementation
 
