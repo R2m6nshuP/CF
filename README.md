@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 11 |
+| 25 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
@@ -34,6 +34,8 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### binary search
 
