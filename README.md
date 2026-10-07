@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
@@ -37,6 +37,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/R2m6nshuP/CF/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### binary search
